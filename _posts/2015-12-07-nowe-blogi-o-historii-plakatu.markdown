@@ -4,6 +4,7 @@ title: Nowe blogi o historii plakatu
 layout: post
 tags: [plakat, historia, plakatu, plakaty, na, ścianę, plakaty, dla, dzieci]
 categories: [plakat, plakaty, na, scianę, plakaty, dla, dzieci]
+permalink: krotki-adres-1
 ---
 Dzień dobry,
 
