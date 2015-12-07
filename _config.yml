@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://yomammaplease.github.io
+title: yomammaplease
+tagline: indexing speedo
+description: Speedo testing
+paginate: 5
